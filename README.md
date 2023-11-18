@@ -1,4 +1,3 @@
-# azure-aks-cluster-terraform-verified-module
 ### Create AKS cluster through Terraform
 Source code how to create a Kubernetes cluster in Azure.
 
